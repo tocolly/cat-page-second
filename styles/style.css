@@ -1,0 +1,29 @@
+body {
+    margin: 2.5em 1em 0 1em;
+}
+
+img {
+    display: none;
+}
+
+header {
+    display: block;
+    background: #bbc3cc;
+    font-size: 129%;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #f9fcff; 
+}
+section {
+    display: block;
+    background: #3e4247;
+    font-size: 140%;
+}
+
+h2 {
+    color: #177def;
+    text-transform: uppercase;
+}
